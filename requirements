@@ -1,0 +1,11 @@
+torch==2.0
+gradio
+midi2audio
+pydub
+matplotlib
+torchsummary
+scikit-learn
+einops
+pyfluidsynth
+mido
+Pillow
